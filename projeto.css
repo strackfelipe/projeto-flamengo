@@ -78,3 +78,6 @@ footer{
     margin-right: auto !important;
     margin-left: auto !important;
 }
+.inicio{
+    min-height: 400px;
+}
