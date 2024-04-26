@@ -76,11 +76,10 @@ footer{
     margin-right: auto !important;
     margin-left: auto !important;
 }
-.inicio{
+.str{
     margin: 0 20%;
     min-height: 400px;
 }
-
 @media (max-width: 1000px) {
     .inicio{
         margin: 0 20px;    
